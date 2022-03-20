@@ -15,6 +15,6 @@ setInterval(() => {
     const imageURL = images[imageIndex];
     url.setAttribute('src', imageURL);
     imageIndex++;
-}, 1000)
+}, 1500)
 
 
